@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 # Hello, I'm Jyotsna Ambekar 👋
 
-Passionate about Machine learning, Deep learning, Natural language processing, and Artificial Intelligence from Dallas.
-
 ## About Me
 
 Greetings! 👋
