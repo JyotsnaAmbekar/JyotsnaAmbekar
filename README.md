@@ -47,8 +47,7 @@ Join me on this AI odyssey as we decode the universe's enigmas together. ğŸš€ğŸ
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40" />
   </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikit-learn/scikit-learn-original.svg" alt="scikit-learn" width="40" height="40" />
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40" />
@@ -60,7 +59,7 @@ Join me on this AI odyssey as we decode the universe's enigmas together. ğŸš€ğŸ
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40" />
   </a>
   <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matplotlib/matplotlib-original.svg" alt="Matplotlib" width="40" height="40" />
+    <img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fimage.pngaaa.com%2F242%2F4152242-middle.png&tbnid=EfCUuus-ciYdUM&vet=12ahUKEwintoWwvvOAAxVQq4kEHe7SC-4QMygGegQIARBk..i&imgrefurl=https%3A%2F%2Fwww.pngaaa.com%2Fdetail%2F4152242&docid=dHPIaZYJkq65vM&w=900&h=532&q=matplotlib%20logo&ved=2ahUKEwintoWwvvOAAxVQq4kEHe7SC-4QMygGegQIARBk" alt="Matplotlib" width="40" height="40" />
   </a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
     <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="40" height="40" />
@@ -91,7 +90,7 @@ Join me on this AI odyssey as we decode the universe's enigmas together. ğŸš€ğŸ
 
 ## Connect with Me
 
-[<img src="linkedin_logo_url" width="30" height="30">](https://www.linkedin.com/in/JyotsnaAmbekar) &nbsp;&nbsp;
+[<img src="[linkedin_logo_url](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)" width="30" height="30">](https://www.linkedin.com/in/JyotsnaAmbekar) &nbsp;&nbsp;
 
 ğŸ“« jyotsnakunte1921@gmail.com
 
