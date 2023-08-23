@@ -82,7 +82,7 @@ Join me on this AI odyssey as we decode the universe's enigmas together. ğŸš€ğŸ
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40" />
   </a>
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/PB_AWS_logo_RGB.61f27f32b8fc8b9dd5cdd9a6a8fc962af52aaad9.png" alt="AWS" width="40" height="40" />
+    <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40" />
   </a>
 </p>
 
