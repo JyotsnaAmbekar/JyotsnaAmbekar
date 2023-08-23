@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **JyotsnaAmbekar/JyotsnaAmbekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -51,5 +51,8 @@ Join me on this AI odyssey as we decode the universe's enigmas together. 🚀�
 ## Fun Facts
 
 Beyond code, I find solace in painting and globetrotting, enriching my approach to problem-solving. As a strong believer in spirituality, I connect the unseen dots.
+
+
+
 ---
 
