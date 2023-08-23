@@ -13,6 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+[<img src="gmail_logo_url" width="30" height="30">](mailto:jyotsnakunte1921@gmail.com) &nbsp;&nbsp;
+
 -->
 
 # Hello, I'm Jyotsna Ambekar 👋
@@ -44,7 +46,6 @@ Join me on this AI odyssey as we decode the universe's enigmas together. 🚀�
 ## Connect with Me
 
 [<img src="linkedin_logo_url" width="30" height="30">](https://www.linkedin.com/in/JyotsnaAmbekar) &nbsp;&nbsp;
-[<img src="gmail_logo_url" width="30" height="30">](mailto:jyotsnakunte1921@gmail.com) &nbsp;&nbsp;
 
 📫 jyotsnakunte1921@gmail.com
 
