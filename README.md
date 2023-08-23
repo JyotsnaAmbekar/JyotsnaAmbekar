@@ -89,7 +89,7 @@ Join me on this AI odyssey as we decode the universe's enigmas together. ğŸš€ğŸ
 
 ## Connect with Me
 
-[<img src="[https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg]"(https://www.linkedin.com/in/JyotsnaAmbekar) &nbsp;&nbsp;
+[<img src="[https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg]"](https://www.linkedin.com/in/JyotsnaAmbekar) &nbsp;&nbsp;
 
 
 
