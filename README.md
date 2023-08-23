@@ -70,8 +70,7 @@ Join me on this AI odyssey as we decode the universe's enigmas together. ğŸš€ğŸ
   <a href="https://spacy.io/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/explosion/spaCy/master/website/static/spacy-logo.svg" alt="spaCy" width="40" height="40" />
   </a>
-  <a href="https://github.com/google-research/bert" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/google-research/bert/master/images/bert-logo.png" alt="BERT" width="40" height="40" />
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
   </a>
   <a href="https://openai.com/research/gpt-3" target="_blank" rel="noreferrer">
     <img src="https://platform.openai.com/static/images/logo.svg" alt="GPT-3" width="40" height="40" />
@@ -90,7 +89,9 @@ Join me on this AI odyssey as we decode the universe's enigmas together. ğŸš€ğŸ
 
 ## Connect with Me
 
-[<img src="[linkedin_logo_url](https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg)" width="30" height="30">](https://www.linkedin.com/in/JyotsnaAmbekar) &nbsp;&nbsp;
+[<img src="[https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg](https://www.linkedin.com/in/JyotsnaAmbekar) &nbsp;&nbsp;
+
+
 
 ğŸ“« jyotsnakunte1921@gmail.com
 
