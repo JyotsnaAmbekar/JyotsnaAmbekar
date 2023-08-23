@@ -21,7 +21,7 @@ Passionate about Machine learning, Deep learning, Natural language processing, a
 
 ## About Me
 
-## Greetings! 👋
+Greetings! 👋
 
 I'm Jyotsna Ambekar, an AI enthusiast and Machine Learning Engineer. My fascination with Machine Learning, Deep Learning, NLP, and AI ignited during my Masters, and I've been delving deeper ever since.
 
@@ -53,10 +53,5 @@ Join me on this AI odyssey as we decode the universe's enigmas together. 🚀�
 ## Fun Facts
 
 Beyond code, I find solace in painting and globetrotting, enriching my approach to problem-solving. As a strong believer in spirituality, I connect the unseen dots.
-
-## GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=JyotsnaAmbekar&show_icons=true)
-
 ---
 
