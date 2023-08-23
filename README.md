@@ -89,9 +89,9 @@ Join me on this AI odyssey as we decode the universe's enigmas together. 🚀�
 
 ## Connect with Me
 
-[<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F81%2FLinkedIn_icon.svg%2F2048px-LinkedIn_icon.svg.png&tbnid=TUwrfYAbg9Zk_M&vet=12ahUKEwi4garfwfOAAxVWMN4AHR4SBOgQMygAegQIARBf..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&docid=SHUZVHiQtAectM&w=2048&h=2048&q=linkedin%20logo%20svg&ved=2ahUKEwi4garfwfOAAxVWMN4AHR4SBOgQMygAegQIARBf"](https://www.linkedin.com/in/JyotsnaAmbekar) &nbsp;&nbsp;
+[<img src=""](https://www.linkedin.com/in/) &nbsp;&nbsp;
 
-
+[<img src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2Fthumb%2F8%2F81%2FLinkedIn_icon.svg%2F2048px-LinkedIn_icon.svg.png&tbnid=TUwrfYAbg9Zk_M&vet=12ahUKEwi4garfwfOAAxVWMN4AHR4SBOgQMygAegQIARBf..i&imgrefurl=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&docid=SHUZVHiQtAectM&w=2048&h=2048&q=linkedin%20logo%20svg&ved=2ahUKEwi4garfwfOAAxVWMN4AHR4SBOgQMygAegQIARBf" width="30" height="30">](https://www.linkedin.com/in/JyotsnaAmbekar) &nbsp;&nbsp;
 
 📫 jyotsnakunte1921@gmail.com
 
