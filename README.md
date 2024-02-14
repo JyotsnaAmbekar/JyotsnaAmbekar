@@ -88,7 +88,7 @@ Join me on this AI odyssey as we decode the universe's enigmas together. ğŸš€ğŸ
     
 </head>
 <body>
-    <p>If you are not redirected, <a href="https://www.linkedin.com/in/JyotsnaAmbekar">click here</a>.</p>
+    <p> <a href="https://www.linkedin.com/in/JyotsnaAmbekar">LinkedIn</a>.</p>
 </body>
 </html>
 
