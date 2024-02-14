@@ -85,7 +85,7 @@ Join me on this AI odyssey as we decode the universe's enigmas together. ğŸš€ğŸ
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="refresh" content="0;url=https://www.linkedin.com/in/JyotsnaAmbekar">
-    <title>Redirecting to LinkedIn</title>
+    
 </head>
 <body>
     <p>If you are not redirected, <a href="https://www.linkedin.com/in/JyotsnaAmbekar">click here</a>.</p>
@@ -96,7 +96,7 @@ Join me on this AI odyssey as we decode the universe's enigmas together. ğŸš€ğŸ
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Email Redirect</title>
+    
 </head>
 <body>
     <a href="mailto:jyotsnakunte1921@gmail.com">
